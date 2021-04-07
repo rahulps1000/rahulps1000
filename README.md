@@ -29,7 +29,7 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/rahulps1000/rahulps1000.svg)](http://hits.dwyl.com/rahulps1000/rahulps1000)
+[![HitCount](http://hits.dwyl.com/rahulps1000/ForwardBot.svg)](http://hits.dwyl.com/rahulps1000/ForwardBot)
 
 <i>Follow me around the web:</i><br>
 
