@@ -29,9 +29,9 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulps1000&label=Profile%20views&color=0e75b6&style=flat" alt="rahulps1000" /> </p>
 [![HitCount](http://hits.dwyl.com/rahulps1000/ForwardBot.svg)](http://hits.dwyl.com/rahulps1000/ForwardBot)
 
 <i>Follow me around the web:</i><br>
