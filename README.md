@@ -32,7 +32,7 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 
 ---
 
-[![HitCount](http://hits.dwyl.com/rahulps1000/ForwardBot.svg)](http://hits.dwyl.com/rahulps1000/ForwardBot)
+![](https://komarev.com/ghpvc/?username=rahulps1000&color=blueviolet&style=flat)
 
 <i>Follow me around the web:</i><br>
 
