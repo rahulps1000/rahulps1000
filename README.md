@@ -16,19 +16,21 @@ Ask me anything <a href="https://github.com/rahulps1000/rahulps1000/issues/new">
 or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
----
+<hr />
 </div>
+<div align="center">
 <b>Connect with me:</b>
 
-<a href=instagram><img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href=telegram><img align="center" alt="TeleGram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /></a>
-<a href=youtube><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href=twitter><img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href=linkedin><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href=facebook><img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href=devs><img align="center" alt="Devs.to" width="22px" src="https://unpkg.com/simple-icons@v6/icons/devdotto.svg" /></a>
-<br />
----
+<a href=https://www.instagram.com/_u.n__k.n.o.w.n_><img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href=https://http://telegram.dog/MrUnknownProgrammer><img align="center" alt="TeleGram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /></a>
+<a href=https://youtube.com/Instasolutions><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href=https://twitter.com/mr_anonhacker><img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href=https://www.linkedin.com/in/rahulps1000><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href=https://www.facebook.com/rahulps1000><img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href=https://dev.to/rahulps1000><img align="center" alt="Devs.to" width="22px" src="https://unpkg.com/simple-icons@v6/icons/devdotto.svg" /></a>
+  </div>
+ 
+<hr />
 
 <div align="center">
 
