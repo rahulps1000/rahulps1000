@@ -16,8 +16,19 @@ Ask me anything <a href="https://github.com/rahulps1000/rahulps1000/issues/new">
 or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
-
+---
 </div>
+<b>Connect with me:</b>
+
+<a href=instagram><img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href=telegram><img align="center" alt="TeleGram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /></a>
+<a href=youtube><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href=twitter><img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href=linkedin><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href=facebook><img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href=devs><img align="center" alt="Devs.to" width="22px" src="https://unpkg.com/simple-icons@v6/icons/devdotto.svg" /></a>
+<br />
+---
 
 <div align="center">
 
@@ -34,13 +45,14 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 
 ![](https://komarev.com/ghpvc/?username=rahulps1000&color=blueviolet&style=flat)
 
-<i>Follow me around the web:</i><br>
-
-<a href="https://www.linkedin.com/in/rahulps1000" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_u.n__k.n.o.w.n_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/rahulps1000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dev.to/rahulps1000" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
 </div>
 
 -----
+
+[telegram]: https://http://telegram.dog/MrUnknownProgrammer
+[twitter]: https://twitter.com/mr_anonhacker
+[youtube]: https://youtube.com/Instasolutions
+[instagram]: https://www.instagram.com/_u.n__k.n.o.w.n_
+[linkedin]: https://www.linkedin.com/in/rahulps1000
+[facebook]: https://www.facebook.com/rahulps1000
+[devs]: https://dev.to/rahulps1000
