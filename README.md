@@ -16,8 +16,13 @@ Ask me anything <a href="https://github.com/rahulps1000/rahulps1000/issues/new">
 or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
-<hr />
 </div>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+</details>
+<hr />
 <div align="center">
 <b>Connect with me:</b>
 
@@ -50,12 +55,6 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 </div>
 
 -----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
----
 
 [telegram]: http://telegram.dog/MrUnknownProgrammer
 [twitter]: https://twitter.com/mr_anonhacker
