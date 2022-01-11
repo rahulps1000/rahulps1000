@@ -21,8 +21,8 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 <div align="center">
 <b>Connect with me:</b>
 
-<a href=https://www.instagram.com/_u.n__k.n.o.w.n_><img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href=https://http://telegram.dog/MrUnknownProgrammer><img align="center" alt="TeleGram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /></a>
+<a href=https://www.instagram.com/_u.n__k.n.o.w.n_><img align="center" alt="Instagram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" /></a>
+<a href=https://telegram.dog/MrUnknownProgrammer><img align="center" alt="TeleGram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /></a>
 <a href=https://youtube.com/Instasolutions><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href=https://twitter.com/mr_anonhacker><img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href=https://www.linkedin.com/in/rahulps1000><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -51,7 +51,13 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 
 -----
 
-[telegram]: https://http://telegram.dog/MrUnknownProgrammer
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
+[telegram]: http://telegram.dog/MrUnknownProgrammer
 [twitter]: https://twitter.com/mr_anonhacker
 [youtube]: https://youtube.com/Instasolutions
 [instagram]: https://www.instagram.com/_u.n__k.n.o.w.n_
