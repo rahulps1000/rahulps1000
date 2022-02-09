@@ -21,11 +21,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/amalkrishna007/Media-Search-/pull/2) in [amalkrishna007/Media-Search-](https://github.com/amalkrishna007/Media-Search-)
-2. 🗣 Commented on [#8](https://github.com/daadu/receive_intent/issues/8) in [daadu/receive_intent](https://github.com/daadu/receive_intent)
-3. ❌ Closed PR [#83](https://github.com/CodeXBotz/File-Sharing-Bot/pull/83) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-4. ❌ Closed PR [#84](https://github.com/CodeXBotz/File-Sharing-Bot/pull/84) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-5. ❌ Closed PR [#85](https://github.com/CodeXBotz/File-Sharing-Bot/pull/85) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+1. 💪 Opened PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
+2. 🎉 Merged PR [#2](https://github.com/amalkrishna007/Media-Search-/pull/2) in [amalkrishna007/Media-Search-](https://github.com/amalkrishna007/Media-Search-)
+3. 🗣 Commented on [#8](https://github.com/daadu/receive_intent/issues/8) in [daadu/receive_intent](https://github.com/daadu/receive_intent)
+4. ❌ Closed PR [#83](https://github.com/CodeXBotz/File-Sharing-Bot/pull/83) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+5. ❌ Closed PR [#84](https://github.com/CodeXBotz/File-Sharing-Bot/pull/84) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 <!--END_SECTION:activity-->
 </details>
 <hr />
