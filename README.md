@@ -21,11 +21,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
-2. ❌ Reopened PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
-3. ❌ Closed PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
-4. 💪 Opened PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
-5. 🎉 Merged PR [#2](https://github.com/amalkrishna007/Media-Search-/pull/2) in [amalkrishna007/Media-Search-](https://github.com/amalkrishna007/Media-Search-)
+1. ❌ Closed PR [#96](https://github.com/CodeXBotz/File-Sharing-Bot/pull/96) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+2. ❌ Closed PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
+3. ❌ Reopened PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
+4. ❌ Closed PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
+5. 💪 Opened PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
 <!--END_SECTION:activity-->
 </details>
 <hr />
