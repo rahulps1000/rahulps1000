@@ -21,11 +21,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#96](https://github.com/CodeXBotz/File-Sharing-Bot/pull/96) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-2. ❌ Closed PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
-3. ❌ Reopened PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
-4. ❌ Closed PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
-5. 💪 Opened PR [#1](https://github.com/CodeXBotz/pyrogram/pull/1) in [CodeXBotz/pyrogram](https://github.com/CodeXBotz/pyrogram)
+1. ❗️ Closed issue [#90](https://github.com/CodeXBotz/File-Sharing-Bot/issues/90) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+2. ❗️ Closed issue [#92](https://github.com/CodeXBotz/File-Sharing-Bot/issues/92) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+3. 🗣 Commented on [#92](https://github.com/CodeXBotz/File-Sharing-Bot/issues/92) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+4. ❗️ Closed issue [#94](https://github.com/CodeXBotz/File-Sharing-Bot/issues/94) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+5. 🗣 Commented on [#94](https://github.com/CodeXBotz/File-Sharing-Bot/issues/94) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 <!--END_SECTION:activity-->
 </details>
 <hr />
