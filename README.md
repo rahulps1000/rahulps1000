@@ -21,11 +21,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#295](https://github.com/TgCatUB/catuserbot/pull/295) in [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot)
-2. ❌ Closed PR [#294](https://github.com/TgCatUB/catuserbot/pull/294) in [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot)
-3. 💪 Opened PR [#294](https://github.com/TgCatUB/catuserbot/pull/294) in [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot)
-4. ❌ Closed PR [#120](https://github.com/CodeXBotz/File-Sharing-Bot/pull/120) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-5. ❌ Closed PR [#115](https://github.com/CodeXBotz/File-Sharing-Bot/pull/115) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+1. 🗣 Commented on [#3](https://github.com/rahulps1000/HerokuBannedDeployer/issues/3) in [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer)
+2. 💪 Opened PR [#295](https://github.com/TgCatUB/catuserbot/pull/295) in [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot)
+3. ❌ Closed PR [#294](https://github.com/TgCatUB/catuserbot/pull/294) in [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot)
+4. 💪 Opened PR [#294](https://github.com/TgCatUB/catuserbot/pull/294) in [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot)
+5. ❌ Closed PR [#120](https://github.com/CodeXBotz/File-Sharing-Bot/pull/120) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 <!--END_SECTION:activity-->
 </details>
 <hr />
