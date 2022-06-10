@@ -17,6 +17,9 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 </div>
+<hr />
+<a href="[https://www.buymeacoffee.com/gbraad](https://www.buymeacoffee.com/rahulps1000)" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -51,7 +54,7 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulps1000&layout=compact&theme=algolia" alt="Rahul's Lang Stats">
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
