@@ -26,11 +26,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/TgCatUB/nekopack/issues/53) in [TgCatUB/nekopack](https://github.com/TgCatUB/nekopack)
-2. 🗣 Commented on [#131](https://github.com/CodeXBotz/File-Sharing-Bot/issues/131) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-3. 🗣 Commented on [#53](https://github.com/TgCatUB/nekopack/issues/53) in [TgCatUB/nekopack](https://github.com/TgCatUB/nekopack)
-4. 💪 Opened PR [#301](https://github.com/TgCatUB/catuserbot/pull/301) in [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot)
-5. 💪 Opened PR [#1](https://github.com/rahulps1000/catuserbot/pull/1) in [rahulps1000/catuserbot](https://github.com/rahulps1000/catuserbot)
+1. ❗️ Closed issue [#126](https://github.com/CodeXBotz/File-Sharing-Bot/issues/126) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+2. 🗣 Commented on [#124](https://github.com/CodeXBotz/File-Sharing-Bot/issues/124) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+3. ❗️ Closed issue [#124](https://github.com/CodeXBotz/File-Sharing-Bot/issues/124) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+4. ❗️ Closed issue [#122](https://github.com/CodeXBotz/File-Sharing-Bot/issues/122) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+5. 🗣 Commented on [#122](https://github.com/CodeXBotz/File-Sharing-Bot/issues/122) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 <!--END_SECTION:activity-->
 </details>
 <hr />
