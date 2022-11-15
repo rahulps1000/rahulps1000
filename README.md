@@ -26,11 +26,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/eugeneware/ffprobe/issues/20) in [eugeneware/ffprobe](https://github.com/eugeneware/ffprobe)
-2. ❗️ Opened issue [#6](https://github.com/mgcrea/node-mediainfo-parser/issues/6) in [mgcrea/node-mediainfo-parser](https://github.com/mgcrea/node-mediainfo-parser)
-3. 🗣 Commented on [#177](https://github.com/CodeXBotz/File-Sharing-Bot/issues/177) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-4. ❌ Closed PR [#176](https://github.com/CodeXBotz/File-Sharing-Bot/pull/176) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-5. ❗️ Opened issue [#2593](https://github.com/pmndrs/react-three-fiber/issues/2593) in [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+1. ❗️ Closed issue [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
+2. 🗣 Commented on [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
+3. ❗️ Opened issue [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
+4. ❗️ Opened issue [#20](https://github.com/eugeneware/ffprobe/issues/20) in [eugeneware/ffprobe](https://github.com/eugeneware/ffprobe)
+5. ❗️ Opened issue [#6](https://github.com/mgcrea/node-mediainfo-parser/issues/6) in [mgcrea/node-mediainfo-parser](https://github.com/mgcrea/node-mediainfo-parser)
 <!--END_SECTION:activity-->
 </details>
 <hr />
