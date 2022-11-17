@@ -26,11 +26,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
-2. 🗣 Commented on [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
-3. ❗️ Opened issue [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
-4. ❗️ Opened issue [#20](https://github.com/eugeneware/ffprobe/issues/20) in [eugeneware/ffprobe](https://github.com/eugeneware/ffprobe)
-5. ❗️ Opened issue [#6](https://github.com/mgcrea/node-mediainfo-parser/issues/6) in [mgcrea/node-mediainfo-parser](https://github.com/mgcrea/node-mediainfo-parser)
+1. 🎉 Merged PR [#5](https://github.com/rahulps1000/pyropatch/pull/5) in [rahulps1000/pyropatch](https://github.com/rahulps1000/pyropatch)
+2. ❗️ Closed issue [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
+3. 🗣 Commented on [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
+4. ❗️ Opened issue [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
+5. ❗️ Opened issue [#20](https://github.com/eugeneware/ffprobe/issues/20) in [eugeneware/ffprobe](https://github.com/eugeneware/ffprobe)
 <!--END_SECTION:activity-->
 </details>
 <hr />
