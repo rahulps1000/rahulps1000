@@ -27,10 +27,10 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3999](https://github.com/is-a-dev/register/issues/3999) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#3999](https://github.com/is-a-dev/register/pull/3999) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🎉 Merged PR [#5](https://github.com/rahulps1000/pyropatch/pull/5) in [rahulps1000/pyropatch](https://github.com/rahulps1000/pyropatch)
-4. ❗️ Closed issue [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
-5. 🗣 Commented on [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
+2. 🗣 Commented on [#3999](https://github.com/is-a-dev/register/issues/3999) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 💪 Opened PR [#3999](https://github.com/is-a-dev/register/pull/3999) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🎉 Merged PR [#5](https://github.com/rahulps1000/pyropatch/pull/5) in [rahulps1000/pyropatch](https://github.com/rahulps1000/pyropatch)
+5. ❗️ Closed issue [#1510](https://github.com/devicons/devicon/issues/1510) in [devicons/devicon](https://github.com/devicons/devicon)
 <!--END_SECTION:activity-->
 </details>
 <hr />
