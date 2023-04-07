@@ -27,10 +27,10 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47821](https://github.com/vercel/next.js/issues/47821) in [vercel/next.js](https://github.com/vercel/next.js)
-2. ❌ Closed PR [#225](https://github.com/CodeXBotz/File-Sharing-Bot/pull/225) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-3. 🎉 Merged PR [#230](https://github.com/CodeXBotz/File-Sharing-Bot/pull/230) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-4. ❌ Closed PR [#228](https://github.com/CodeXBotz/File-Sharing-Bot/pull/228) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-5. 🎉 Merged PR [#227](https://github.com/CodeXBotz/File-Sharing-Bot/pull/227) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+2. 🗣 Commented on [#47821](https://github.com/vercel/next.js/issues/47821) in [vercel/next.js](https://github.com/vercel/next.js)
+3. ❌ Closed PR [#225](https://github.com/CodeXBotz/File-Sharing-Bot/pull/225) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+4. 🎉 Merged PR [#230](https://github.com/CodeXBotz/File-Sharing-Bot/pull/230) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+5. ❌ Closed PR [#228](https://github.com/CodeXBotz/File-Sharing-Bot/pull/228) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 <!--END_SECTION:activity-->
 </details>
 <hr />
