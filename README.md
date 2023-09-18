@@ -26,11 +26,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/salmanmemon7/Threads/issues/2) in [salmanmemon7/Threads](https://github.com/salmanmemon7/Threads)
-2. 🗣 Commented on [#10](https://github.com/xHookman/IGexperiments/issues/10#issuecomment-1705716806) in [xHookman/IGexperiments](https://github.com/xHookman/IGexperiments)
-3. ❗ Opened issue [#10](https://github.com/xHookman/IGexperiments/issues/10) in [xHookman/IGexperiments](https://github.com/xHookman/IGexperiments)
-4. ❌ Closed PR [#4](https://github.com/rahulps1000/HerokuBannedDeployer/pull/4) in [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer)
-5. 🎉 Merged PR [#5](https://github.com/rahulps1000/HerokuBannedDeployer/pull/5) in [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer)
+1. 🗣 Commented on [#2](https://github.com/salmanmemon7/Threads/issues/2#issuecomment-1723175589) in [salmanmemon7/Threads](https://github.com/salmanmemon7/Threads)
+2. ❗ Opened issue [#2](https://github.com/salmanmemon7/Threads/issues/2) in [salmanmemon7/Threads](https://github.com/salmanmemon7/Threads)
+3. 🗣 Commented on [#10](https://github.com/xHookman/IGexperiments/issues/10#issuecomment-1705716806) in [xHookman/IGexperiments](https://github.com/xHookman/IGexperiments)
+4. ❗ Opened issue [#10](https://github.com/xHookman/IGexperiments/issues/10) in [xHookman/IGexperiments](https://github.com/xHookman/IGexperiments)
+5. ❌ Closed PR [#4](https://github.com/rahulps1000/HerokuBannedDeployer/pull/4) in [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer)
 <!--END_SECTION:activity-->
 </details>
 <hr />
