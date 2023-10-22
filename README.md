@@ -28,9 +28,9 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#6](https://github.com/rahulps1000/rahulps1000/issues/6) in [rahulps1000/rahulps1000](https://github.com/rahulps1000/rahulps1000)
 2. 🔒 Closed issue [#1](https://github.com/rahulps1000/CineSynth/issues/1) in [rahulps1000/CineSynth](https://github.com/rahulps1000/CineSynth)
-3. 🗣 Commented on [#2](https://github.com/salmanmemon7/Threads/issues/2#issuecomment-1723175589) in [salmanmemon7/Threads](https://github.com/salmanmemon7/Threads)
-4. ❗ Opened issue [#2](https://github.com/salmanmemon7/Threads/issues/2) in [salmanmemon7/Threads](https://github.com/salmanmemon7/Threads)
-5. 🗣 Commented on [#10](https://github.com/xHookman/IGexperiments/issues/10#issuecomment-1705716806) in [xHookman/IGexperiments](https://github.com/xHookman/IGexperiments)
+3. 🗣 Commented on [#10](https://github.com/xHookman/IGexperiments/issues/10#issuecomment-1705716806) in [xHookman/IGexperiments](https://github.com/xHookman/IGexperiments)
+4. ❗ Opened issue [#10](https://github.com/xHookman/IGexperiments/issues/10) in [xHookman/IGexperiments](https://github.com/xHookman/IGexperiments)
+5. ❌ Closed PR [#4](https://github.com/rahulps1000/HerokuBannedDeployer/pull/4) in [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer)
 <!--END_SECTION:activity-->
 </details>
 <hr />
