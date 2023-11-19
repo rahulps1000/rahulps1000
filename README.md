@@ -26,11 +26,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#274](https://github.com/CodeXBotz/File-Sharing-Bot/pull/274) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-2. ❌ Closed PR [#273](https://github.com/CodeXBotz/File-Sharing-Bot/pull/273) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-3. ❌ Closed PR [#272](https://github.com/CodeXBotz/File-Sharing-Bot/pull/272) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-4. ❌ Closed PR [#271](https://github.com/CodeXBotz/File-Sharing-Bot/pull/271) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-5. ❌ Closed PR [#270](https://github.com/CodeXBotz/File-Sharing-Bot/pull/270) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+1. 💪 Opened PR [#1](https://github.com/abhijeet-saxena/css-battle-solutions/pull/1) in [abhijeet-saxena/css-battle-solutions](https://github.com/abhijeet-saxena/css-battle-solutions)
+2. ❌ Closed PR [#274](https://github.com/CodeXBotz/File-Sharing-Bot/pull/274) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+3. ❌ Closed PR [#273](https://github.com/CodeXBotz/File-Sharing-Bot/pull/273) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+4. ❌ Closed PR [#272](https://github.com/CodeXBotz/File-Sharing-Bot/pull/272) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+5. ❌ Closed PR [#271](https://github.com/CodeXBotz/File-Sharing-Bot/pull/271) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 <!--END_SECTION:activity-->
 </details>
 <hr />
