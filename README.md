@@ -36,36 +36,46 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 <hr />
 <div align="center">
 <b>Connect with me:</b>
-
-<a href=https://www.instagram.com/_u.n__k.n.o.w.n_><img align="center" alt="Instagram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" /></a>
-<a href=https://telegram.dog/MrUnknownProgrammer><img align="center" alt="TeleGram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" /></a>
-<a href=https://youtube.com/Instasolutions><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href=https://twitter.com/mr_anonhacker><img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href=https://www.linkedin.com/in/rahulps1000><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href=https://www.facebook.com/rahulps1000><img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href=https://dev.to/rahulps1000><img align="center" alt="Devs.to" width="22px" src="https://unpkg.com/simple-icons@v6/icons/devdotto.svg" /></a>
+<div style="display:'flex';">
+<a href=https://www.instagram.com/_u.n__k.n.o.w.n_><img align="center" alt="Instagram" title="Instagram" width="22px" src="https://rahulps1000.github.io/CDN/social-media/instagram.png" /></a>
+<a href=https://telegram.dog/MrUnknownProgrammer><img align="center" alt="Telegram" title="Telegram" width="22px" src="https://rahulps1000.github.io/CDN/social-media/telegram.png" /></a>
+<a href=https://cssbattle.dev/player/rahulps><img align="center" alt="CSSBattle" title="CSS Battle" width="22px" src="https://rahulps1000.github.io/CDN/social-media/css_battle.png" /></a>
+<a href=https://youtube.com/Instasolutions><img align="center" alt="YouTube" title="Youtube" width="22px" src="https://rahulps1000.github.io/CDN/social-media/youtube.png" /></a>
+<a href=https://twitter.com/mr_anonhacker><img align="center" alt="X (formerly Twitter)" width="22px" src="https://rahulps1000.github.io/CDN/social-media/twitter.png" /></a>
+<a href=https://www.linkedin.com/in/rahulps1000><img align="center" alt="LinkedIn" title="LinkedIn" width="22px" src="https://rahulps1000.github.io/CDN/social-media/linkedin.png" /></a>
+<a href=https://www.facebook.com/rahulps1000><img align="center" alt="Facebook" title="Facebook" width="22px" src="https://rahulps1000.github.io/CDN/social-media/facebook.png" /></a>
+<a href=https://dev.to/rahulps1000><img align="center" alt="Dev.to" title="Dev.to" width="22px" src="https://rahulps1000.github.io/CDN/social-media/dev_to.png" /></a>
+</div>
   </div>
  
 <hr />
+<div align="center" width="100%">
+  <h3>Stats</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulps1000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahul's Github Stats">
+<br />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulps1000&theme=algolia&hide_border=false" alt="Rahul's Stats">
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulps1000&layout=compact&theme=algolia" alt="Rahul's Lang Stats">
+</div>
+
+---
 
 <div align="center">
+<h3>Tech Stack</h3>
+<div style="display:grid;grid-template-colums:auto">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,angular,cs,dotnet,flutter,github,nextjs,regex,mysql,mongodb,postgres,php,powershell,visualstudio,heroku,ps,ai,pr,ae,blender" />
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulps1000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rahul's Github Stats">
-</br>
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulps1000&layout=compact&theme=algolia" alt="Rahul's Lang Stats">
-</br>
-</br>
-<i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+---
+
+<b>Random dev joke for you!</b><br>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=rahulps1000&color=blueviolet&style=flat)
 
 </div>
-
------
 
 [telegram]: http://telegram.dog/MrUnknownProgrammer
 [twitter]: https://twitter.com/mr_anonhacker
