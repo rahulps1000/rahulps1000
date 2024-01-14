@@ -35,7 +35,7 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 </details>
 <hr />
 <div align="center">
-<b>Connect with me:</b>
+<b>Socials:</b>
 <div style="display:flex !important;gap:10px !important;">
 <a href=https://www.instagram.com/_u.n__k.n.o.w.n_><img align="center" alt="Instagram" title="Instagram" width="22px" src="https://rahulps1000.github.io/CDN/social-media/instagram.png" /></a>&nbsp;
 <a href=https://telegram.dog/MrUnknownProgrammer><img align="center" alt="Telegram" title="Telegram" width="22px" src="https://rahulps1000.github.io/CDN/social-media/telegram.png" /></a>&nbsp;
