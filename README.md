@@ -26,11 +26,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/abhijeet-saxena/css-battle-solutions/pull/2) in [abhijeet-saxena/css-battle-solutions](https://github.com/abhijeet-saxena/css-battle-solutions)
-2. 🗣 Commented on [#1](https://github.com/abhijeet-saxena/css-battle-solutions/pull/1#issuecomment-1820458333) in [abhijeet-saxena/css-battle-solutions](https://github.com/abhijeet-saxena/css-battle-solutions)
-3. ❌ Closed PR [#1](https://github.com/abhijeet-saxena/css-battle-solutions/pull/1) in [abhijeet-saxena/css-battle-solutions](https://github.com/abhijeet-saxena/css-battle-solutions)
-4. 🗣 Commented on [#1](https://github.com/abhijeet-saxena/css-battle-solutions/pull/1#issuecomment-1818434063) in [abhijeet-saxena/css-battle-solutions](https://github.com/abhijeet-saxena/css-battle-solutions)
-5. 💪 Opened PR [#1](https://github.com/abhijeet-saxena/css-battle-solutions/pull/1) in [abhijeet-saxena/css-battle-solutions](https://github.com/abhijeet-saxena/css-battle-solutions)
+1. 🗣 Commented on [#7](https://github.com/rahulps1000/rahulps1000/issues/7#issuecomment-1912840546) in [rahulps1000/rahulps1000](https://github.com/rahulps1000/rahulps1000)
+2. 🔒 Closed issue [#7](https://github.com/rahulps1000/rahulps1000/issues/7) in [rahulps1000/rahulps1000](https://github.com/rahulps1000/rahulps1000)
+3. 🔒 Closed issue [#3](https://github.com/rahulps1000/rahulps1000/issues/3) in [rahulps1000/rahulps1000](https://github.com/rahulps1000/rahulps1000)
+4. 💪 Opened PR [#2](https://github.com/abhijeet-saxena/css-battle-solutions/pull/2) in [abhijeet-saxena/css-battle-solutions](https://github.com/abhijeet-saxena/css-battle-solutions)
+5. 🗣 Commented on [#1](https://github.com/abhijeet-saxena/css-battle-solutions/pull/1#issuecomment-1820458333) in [abhijeet-saxena/css-battle-solutions](https://github.com/abhijeet-saxena/css-battle-solutions)
 <!--END_SECTION:activity-->
 </details>
 <hr />
