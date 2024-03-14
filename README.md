@@ -26,11 +26,11 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12619](https://github.com/is-a-dev/register/issues/12619) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❗ Opened issue [#2](https://github.com/Incipiens/DataToVideoEncoderDecoder/issues/2) in [Incipiens/DataToVideoEncoderDecoder](https://github.com/Incipiens/DataToVideoEncoderDecoder)
-3. 🔒 Closed issue [#293](https://github.com/CodeXBotz/File-Sharing-Bot/issues/293) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
-4. 🗣 Commented on [#7](https://github.com/rahulps1000/rahulps1000/issues/7#issuecomment-1912840546) in [rahulps1000/rahulps1000](https://github.com/rahulps1000/rahulps1000)
-5. 🔒 Closed issue [#7](https://github.com/rahulps1000/rahulps1000/issues/7) in [rahulps1000/rahulps1000](https://github.com/rahulps1000/rahulps1000)
+1. ❌ Closed PR [#302](https://github.com/CodeXBotz/File-Sharing-Bot/pull/302) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+2. ❌ Closed PR [#299](https://github.com/CodeXBotz/File-Sharing-Bot/pull/299) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+3. ❌ Closed PR [#296](https://github.com/CodeXBotz/File-Sharing-Bot/pull/296) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+4. ❌ Closed PR [#295](https://github.com/CodeXBotz/File-Sharing-Bot/pull/295) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+5. ❌ Closed PR [#290](https://github.com/CodeXBotz/File-Sharing-Bot/pull/290) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 <!--END_SECTION:activity-->
 </details>
 <hr />
