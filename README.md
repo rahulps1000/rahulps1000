@@ -26,7 +26,7 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#305](https://github.com/CodeXBotz/File-Sharing-Bot/pull/305) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+1. 💪 Opened PR [#3](https://github.com/subinps/tglogging/pull/3) in [subinps/tglogging](https://github.com/subinps/tglogging)
 2. ❌ Closed PR [#303](https://github.com/CodeXBotz/File-Sharing-Bot/pull/303) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 3. ❌ Closed PR [#302](https://github.com/CodeXBotz/File-Sharing-Bot/pull/302) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 4. ❌ Closed PR [#299](https://github.com/CodeXBotz/File-Sharing-Bot/pull/299) in [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
