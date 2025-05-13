@@ -56,7 +56,7 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulps1000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia&hide_border=false" alt="Rahul's Github Stats">
 <br />
 <br />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulps1000&theme=algolia&hide_border=false" alt="Rahul's Stats">
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rahulps1000&theme=algolia" alt="Rahul's Stats">
 <br />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulps1000&layout=compact&theme=algolia&hide_border=false" alt="Rahul's Lang Stats">
