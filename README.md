@@ -53,13 +53,13 @@ or <a href="mailto:rahulps1000@gmail.com"><b>email</b></a> me
 <div align="center" width="100%">
   <h3>Stats</h3>
   <div style="display:grid !important;gap:10px !important;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulps1000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia&hide_border=false" alt="Rahul's Github Stats">
+<img align="center" src="https://github-readme-stats.shion.dev/api?username=rahulps1000&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="Rahul's Github Stats">
 <br />
 <br />
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=rahulps1000&theme=algolia" alt="Rahul's Stats">
+<img align="center" src="https://streak-stats.demolab.com/?user=rahulps1000&theme=algolia&hide_border=false" alt="Rahul's Stats">
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulps1000&layout=compact&theme=algolia&hide_border=false" alt="Rahul's Lang Stats">
+<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahulps1000&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rahul's Lang Stats">
 </div>
 </div>
 
